@@ -1,0 +1,21 @@
+1) Desarrollar una estructura que contemple los siguientes datos:
+a) ID del producto
+b) Nombre del producto
+c) Precio en dólares
+d) Existencias actuales ( stock )
+e) Cantidad de veces vendido ( para tener un seguimiento de cada producto )
+
+2) Desarrollar un programa que, mediante la estructura recién
+creada, permita al usuario crear un producto. Los IDs se deben
+generar automáticamente por el algoritmo y de forma ordenada,
+comenzando en uno.
+
+3) Desarrollar un conjunto de algoritmos que permita ejecutar
+las siguientes operaciones:
+a) Listar todos los productos creados
+b) Listar productos en stock ( "en stock" significa con una o más existencias )
+c) Buscar producto por ID ( preferentemente búsqueda binaria )
+
+NOTA: la organización y menúes del programa queda a gusto del programador.
+Se debe hacer un programa simple de leer pero, sobretodo, eficiente y
+práctico para el usuario que lo vaya a utilizar.
