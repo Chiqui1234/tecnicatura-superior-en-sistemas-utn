@@ -1,0 +1,27 @@
+1) Desarrolle un procedimiento que dados dos arreglos de entrada N y otro
+de entrada M genere un nuevo arreglo de salida sólo con los elementos
+comunes a ambos. Ambos arreglos están ordenados en forma ascendente.
+2) La tecnicatura desea realizar estadísticas sobre la aprobación de las
+distintas materias del cuatrimestre, para hacerlo se pide:
+    A) Realizar la carga del vector de N Materias, informando por cada
+    materia el nombre de la misma.
+    B) Realizar la carga del vector M Alumnos, informando por cada
+    alumno el legajo (código de 8 dígitos) y nombre.
+    C) Realizar la carga de las notas de cada alumno para cada materia,
+    por cada materia el alumno tiene 2 notas, y se asume que todos los
+    alumnos cursan todas las materias.
+3) Dada la matriz cargada en el punto anterior se pide:
+    A) Informar el porcentaje de alumnos que aprobaron TODAS las materias
+    (se considera aprobada si ambas notas son mayores a 6).
+    B) Informar la materia que menor cantidad de aprobados tiene.
+    C) Informar el nombre y legajo de los dos mejores promedios.
+4) Realizar una función que reciba un vector de N números enteros mayores
+que 0 y devuelva el tamaño de la "escalera" más grande que se forme en sus
+elementos. Llamamos "escalera" a la sucesión de al menos dos números que
+tienen una diferencia de un sólo número.
+Ejemplo:
+- Vector = {3, 5, 6, 8, 9, 10, 10, 12, 2, 3, 4, 5}
+Existen tres escaleras: {5, 6} {8, 9, 10} {2, 3, 4, 5}
+Por lo cuál la escalera máxima de ese vector es de 4 elementos.
+5) Completar la función buscarBin() para que realice la búsqueda binaria
+devolviendo la posición del elemento buscado o -1 si no se encuentra.
