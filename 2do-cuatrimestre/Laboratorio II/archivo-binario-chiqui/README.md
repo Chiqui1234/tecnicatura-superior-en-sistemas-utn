@@ -9,9 +9,13 @@ Suponiendo que tenemos a **gcc** en nuestro PATH (Windows) o en /usr/bin (Linux)
 
 ^ Si están en Windows 10 (PowerShell)
 
+
+
 > a.exe
 
 ^ Si están en Windows 7 (CMD)
+
+
 
 > ./a.out
 
