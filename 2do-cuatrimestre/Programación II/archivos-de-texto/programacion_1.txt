@@ -1,0 +1,5 @@
+chiqui,1234,7,4,8
+vale,1235,6,5,8
+daian,1986,7,6,6
+martin palermo,1972,8,8,8
+cajeteala piola,1980,5,5,4

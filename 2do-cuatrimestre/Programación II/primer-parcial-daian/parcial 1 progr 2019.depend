@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1556200770 source:c:\users\user1\desktop\programacion_1\parcial 1 progr 2019\funciones.cpp
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	"header.h"
+
+1556200714 c:\users\user1\desktop\programacion_1\parcial 1 progr 2019\header.h
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+
+1556200286 source:c:\users\user1\desktop\programacion_1\parcial 1 progr 2019\main.cpp
+	<iostream>
+	<cstdlib>
+	<stdlib.h>
+	<iostream>
+	"header.h"
+

@@ -1,0 +1,20 @@
+Nro. ID: 33
+Nombre: Jaik
+Apellido: Minasian
+Edad: 92
+Nro. ID: 23
+Nombre: Paula
+Apellido: Minasian
+Edad: 48
+Nro. ID: 9
+Nombre: Martín
+Apellido: Gimenez
+Edad: 9
+Nro. ID: 13
+Nombre: Cristian
+Apellido: Gimenez
+Edad: 45
+Nro. ID: 27
+Nombre: Santiago
+Apellido: Gimenez
+Edad: 19

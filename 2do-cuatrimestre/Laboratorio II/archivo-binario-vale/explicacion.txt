@@ -1,0 +1,29 @@
+
+Archivos binarios
+
+- estructura
+ROBOT * robot = null;
+-puntero para abrir el archivo:
+FILE * archivo = fopen("nombre.txt", "ba+");
+-para leerlo:
+fread(&robot, sizeof(robot), 1, archivo);
+while(! feof archivo)
+{
+//hago algo:
+    robot -> edad++;
+//para moverme en el archivo
+    fseek(archivo, DE A CUANTO ME MUEVO, a partir de dd)
+    fseek(archivo, sizeof(ROBOT) * (-1), seek_cur) //set_cur desde donde estoy, 
+    set_set: desde el ppio?        seek_end: desde el final?
+
+    fwrite(robot, sizeof(robot), 1, archivo);
+    fread();
+}
+***importante: el programa anterior no tiene guardada la pos, entonces lo que hace es 
+leer la primera linea del archivo, voy al ppio, escribo, vuelve al ppio, sucesivamente..
+Para guardar la pos puedo usar:
+- ftell(te dice cuantos bytes estas desde el inicio)
+ftell(archivo)= 308990 / sizeof(robot) = me da la cant de archivos!!
+
+
+
