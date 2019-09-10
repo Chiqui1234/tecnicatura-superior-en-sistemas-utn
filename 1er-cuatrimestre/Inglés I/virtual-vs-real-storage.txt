@@ -1,0 +1,19 @@
+VIRTUAL vs REAL STORAGE (IT)
+While the real storage it reffers to the space avaible in owned hard disks, ssds, optical drives
+(like CDs, DVDs, etc), pendrives, smartphones, etc; the concept "virtual storage" its oriented
+to the Cloud services, like Google Drive, OneDrive, MEGA, etc.
+
+VIRTUAL vs PHYSICAL MEMORY (IT)
+The physical -or real- memory in a computer it's determinated for the installed memory stick.
+Example: four gigs of RAM DDR3.
+Otherwise, the virtual memory seems unlimited. Why? The "virtual" memory can take space from
+your hard disk or another storage drive avaible on your computer if you don't have enought
+memory to run an application. The virtual memory is much slower than a real memory stick.
+While a DDR3-1600MHz can handle up to 12800 megabytes per second, a normal SATA hard disk is
+designed to handle a very low speed (70~100 MB/s). Since the virtual memory uses hard disk
+space, you know how slow can be a PC -for example- with 2GB and Windows OS.
+
+In the other hand, virtual memory it's necesary for PCs with 6GB or less RAM because thanks
+to this technology the PC can handle programs wich excess the physical memory without system
+crashes.
+
