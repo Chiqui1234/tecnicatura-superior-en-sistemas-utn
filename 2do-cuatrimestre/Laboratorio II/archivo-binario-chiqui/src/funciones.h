@@ -15,6 +15,6 @@ typedef enum
 } BOOL;
 
 FILE *open(const char *namefile, const char *mode);
-BOOL pre_load(ST_INVITADO *invitado, int *i);
-void save(FILE *stream, ST_INVITADO invitado);
+BOOL preLoad(ST_INVITADO *invitado, int *i);
+void save(FILE *stream, ST_INVITADO invitado, BOOL status);
 void print(FILE *stream, int i);
